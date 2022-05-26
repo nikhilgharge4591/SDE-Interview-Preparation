@@ -7,3 +7,5 @@ List of Questions:
 
 1. Set Matrix Zero's
 2. Kadane's Algorithms
+3. Two Sum
+4. Closet Value in BST
