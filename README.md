@@ -10,3 +10,4 @@ List of Questions:
 3. Two Sum
 4. Closet Value in BST
 5. Binary Search
+6. Validate Sequence
