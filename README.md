@@ -11,3 +11,4 @@ List of Questions:
 4. Closet Value in BST
 5. Binary Search
 6. Validate Sequence
+7. Nth Fibonacci Series
