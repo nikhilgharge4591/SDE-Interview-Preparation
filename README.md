@@ -12,3 +12,4 @@ List of Questions:
 5. Binary Search
 6. Validate Sequence
 7. Nth Fibonacci Series
+8. Product Sum
