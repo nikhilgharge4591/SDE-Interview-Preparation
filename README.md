@@ -13,3 +13,4 @@ List of Questions:
 6. Validate Sequence
 7. Nth Fibonacci Series
 8. Product Sum
+9. Sorted Squared Sum
